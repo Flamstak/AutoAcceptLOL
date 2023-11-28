@@ -36,9 +36,9 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 
 ### Uruchamianie z pliku wykonywalnego (exe):
 
-1. Pobierz plik ZIP z repozytorium.
+1. Pobierz plik RAR z repozytorium.
 
-2. Wypakuj plik ZIP w wybranym miejscu.
+2. Wypakuj plik RAR w wybranym miejscu.
 
 3. Uruchom plik wykonywalny `AutoAkceptacja.exe`.
 
