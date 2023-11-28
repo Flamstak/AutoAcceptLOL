@@ -18,6 +18,8 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 
 ## Instrukcje
 
+### Uruchamianie ze źródeł:
+
 1. Zainstaluj wymagane biblioteki, uruchamiając poniższą komendę:
 
     ```bash
@@ -31,6 +33,16 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
     ```
 
 3. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
+
+### Uruchamianie z pliku wykonywalnego (exe):
+
+1. Pobierz plik ZIP z repozytorium.
+
+2. Wypakuj plik ZIP w wybranym miejscu.
+
+3. Uruchom plik wykonywalny `nazwa_twojego_skryptu.exe`.
+
+4. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
 
 ## Uwagi
 
