@@ -3,7 +3,7 @@
 Prosty skrypt napisany w języku Python do automatycznego akceptowania gry w League of Legends w języku polskim.
 <br>
 <p align="center">
-  <img src="zdjecie.png" alt="zdjecie.png" width="300" height="300">
+  <img src="zdjecie.png" alt="zdjecie.png" width="350" height="350">
 </p>
 
 ## Jak to działa?
