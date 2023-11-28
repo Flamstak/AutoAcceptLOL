@@ -31,7 +31,7 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 ## Uwagi
 
 1. Upewnij się, że obrazek `accept.png` znajduje się w tym samym folderze co skrypt.
-   ![accept.png](accept.png)
+   <br>![accept.png](accept.png)
 2. Skrypt może wymagać dostosowania współczynnika pewności (confidence) w przypadku problemów z lokalizacją obrazka na ekranie.
 
 ## Autor
