@@ -29,7 +29,7 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 2. Uruchom skrypt za pomocą poniższej komendy:
 
     ```bash
-    python nazwa_twojego_skryptu.py
+    python AutoAkceptacja.py
     ```
 
 3. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
@@ -40,7 +40,7 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 
 2. Wypakuj plik ZIP w wybranym miejscu.
 
-3. Uruchom plik wykonywalny `nazwa_twojego_skryptu.exe`.
+3. Uruchom plik wykonywalny `AutoAkceptacja.exe`.
 
 4. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
 
