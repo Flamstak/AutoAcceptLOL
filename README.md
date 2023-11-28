@@ -32,7 +32,7 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
     python AutoAkceptacja.py
     ```
 
-3. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
+3. Aby przerwać działanie skryptu, <b>przytrzymaj</b> klawisz 'q'.
 
 ### Uruchamianie z pliku wykonywalnego (exe):
 
@@ -42,7 +42,7 @@ Skrypt używa biblioteki `pyautogui` do lokalizacji przycisku "akceptuj" na ekra
 
 3. Uruchom plik wykonywalny `AutoAkceptacja.exe`.
 
-4. Aby przerwać działanie skryptu, <b>prztrzymaj</b> klawisz 'q'.
+4. Aby przerwać działanie skryptu, <b>przytrzymaj</b> klawisz 'q'.
 
 ## Uwagi
 
