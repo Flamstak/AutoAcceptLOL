@@ -1,6 +1,7 @@
 # Skrypt do akceptacji gry w League of Legends
 
 Prosty skrypt napisany w języku Python do automatycznego akceptowania gry w League of Legends w języku polskim.
+<br>![zdjecie.png](zdjecie.png)
 
 ## Jak to działa?
 
